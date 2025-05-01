@@ -1,0 +1,9 @@
+# No external dependencies are required as all libraries used are part of standard Python distribution
+# tkinter - for GUI (comes with Python)
+# threading - for background operations (standard library)
+# json - for history file management (standard library)
+# webbrowser - for opening URLs (standard library)
+# platform - for OS detection (standard library)
+
+# For building standalone executable
+pyinstaller>=4.0
